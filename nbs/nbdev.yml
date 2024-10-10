@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "DS"
+  site-url: "https://pralinor.github.io/DS"
+  description: "Datascience repo"
+  repo-branch: main
+  repo-url: "https://github.com/pralinor/DS"
